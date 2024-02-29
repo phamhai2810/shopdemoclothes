@@ -4,6 +4,10 @@
 <head>
   @include('admin.head')
 </head>
+<div>
+  <div><b style="color: green;">Tài Khoản Đăng Nhập Demo:</b> phamhaig281@gmail.com</div>
+  <div><b style="color: green;">Mật Khẩu Đăng Nhập Demo:</b> 123</div>
+</div>
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
