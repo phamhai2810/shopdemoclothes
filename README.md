@@ -1,4 +1,4 @@
-Hướng sử cài đặt web demo laravel
+Hướng cài đặt website demo laravel
 
 Bước 1: Tải file shopbanhang và file database 'shop_phamhai.sql'.
 
