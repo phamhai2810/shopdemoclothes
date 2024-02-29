@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body, .main-menu > li > a, .main-menu-m > li > a, span, p, a {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.lv-content-push-list__content {
+    margin-top: 1.5rem;
+}
+.lv-editorial-text-block__title {
+    margin: 0 0 1rem;
+    font-size: 1.125rem;
+    color: #000;
+}
+.lv-smart-link{
+    box-shadow: 0 2px 0 -1px currentColor;
+    color: #000;
+    font-size: 1.125rem;
+}
